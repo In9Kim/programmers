@@ -1,4 +1,4 @@
-package lotto;
+package programmers.lotto;
 
 public class Solution_main {
     public static void main(String[]args){

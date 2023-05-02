@@ -1,5 +1,4 @@
-package kakao_blind_2022;
-import kakao_blind_2022.Solution;
+package programmers.kakao_blind_2022;
 
 public class Solution_main {
     public static void main(String[]args){

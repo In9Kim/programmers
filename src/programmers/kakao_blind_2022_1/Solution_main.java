@@ -1,4 +1,4 @@
-package kakao_blind_2022_1;
+package programmers.kakao_blind_2022_1;
 
 public class Solution_main {
     public static void main(String[]args){

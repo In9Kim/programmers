@@ -1,4 +1,4 @@
-package kakao_blind_2022;
+package programmers.kakao_blind_2022;
 
 import java.util.*;
 

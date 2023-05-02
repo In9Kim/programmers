@@ -1,7 +1,4 @@
-package kakao_blind_2022_1;
-
-import java.awt.*;
-import java.util.*;
+package programmers.kakao_blind_2022_1;
 
 class Solution {
     public String solution(String new_id) {
